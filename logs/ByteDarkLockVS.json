@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "description": "This module implements a class for handling symmetric encryption using AES and Fernet.It includes features for key generation, encryption and decryption, and support for HMAC, and key expiration.",
+    "author": "FakeFountain548",
+    "license": "MIT",
+    "dependencies": {
+        "python": ">=3.6",
+        "cryptography": ">=3.4.7",
+    "Time": "2025-05-10T20:50:25.578645+00:00"
+    }
+}
