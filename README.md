@@ -32,6 +32,12 @@ Quick installation with `pip`:
 pip install cryptography Pillow
 ```
 
+Instalation of ByteDarkLock:
+
+```bash
+pip install ByteDarkLock-BDL
+```
+
 ## Quick Start Guide
 
 ```python
